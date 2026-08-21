@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22038862.svg)](https://doi.org/10.5281/zenodo.22038862)
+
 # 偏元数学偏元数域 · Lean 4 形式化验证
 
 ### Prenary Mathematics Prenary Domain · Lean 4 Formal Verification
@@ -34,7 +36,7 @@
 | Day5-02 本地 SHA256（双哈希一致） | `774a32739ad5788df6ad2c4a3616df7dad6c5bdd0ad0098519f609ebe935eae2` |
 | Day5-03 本地 SHA256（双哈希一致） | `ba366c7c3686728bdcd78841b6bc272db572b164006e44d5272d4b4ac96ac9fb` |
 | 验证时间 | 2026-08-20 |
-| DOI | 待 Zenodo 发布后回填 |
+| DOI | 10.5281/zenodo.22038862 |
 
 ## 文件说明
 
