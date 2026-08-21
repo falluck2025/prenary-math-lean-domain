@@ -30,7 +30,7 @@
 | 平台 | live.lean-lang.org · Lean 4.34.0-rc1 + Mathlib |
 | 内核 | No goals（10 定理全部通过） |
 | Comparator | Successfully validated（独立二次验证） |
-| Day5 本地 SHA256 | `06e5c04660dbd082403410772fc08c31eef19acf201a46918b1436fdc86f311f` |
+| Day5 本地 SHA256（双哈希一致） | `06e5c04660dbd082403410772fc08c31eef19acf201a46918b1436fdc86f311f` |
 | Day5-02 本地 SHA256（双哈希一致） | `774a32739ad5788df6ad2c4a3616df7dad6c5bdd0ad0098519f609ebe935eae2` |
 | Day5-03 本地 SHA256（双哈希一致） | `ba366c7c3686728bdcd78841b6bc272db572b164006e44d5272d4b4ac96ac9fb` |
 | 验证时间 | 2026-08-20 |
